@@ -1,5 +1,6 @@
 # JPAComHibernate
 Projeto gerado, depois do curso do "https://cursos.alura.com.br/course/java-jpa-jpql-criteria"
+Certificado do Curso: https://cursos.alura.com.br/certificate/anderson361163/java-jpa-jpql-criteria;
 
 Este curso abordou os seguintes tópicos:
 
